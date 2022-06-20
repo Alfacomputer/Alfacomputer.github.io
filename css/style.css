@@ -86,7 +86,6 @@ body {
   height: 600px;
   background: #3e3e3e;
   text-indent: 10px;
-  padding: 15px 15px 15px 15px;
 }
 i {
   color: #e8d58c;
@@ -95,6 +94,7 @@ i {
 .text__p {
   font-size: 22px;
   padding: 3px;
+  margin: 15px 15px 15px 15px;
 }
 .content__img {
   width: 407px;
