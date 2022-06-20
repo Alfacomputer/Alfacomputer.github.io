@@ -79,13 +79,14 @@ body {
 .content {
   width: 990px;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 .content__text {
   width: 516px;
   height: 600px;
   background: #3e3e3e;
   text-indent: 10px;
+  padding: 15px 15px 15px 15px;
 }
 i {
   color: #e8d58c;
